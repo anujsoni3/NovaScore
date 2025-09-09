@@ -7,6 +7,12 @@
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Flask%20%7C%20ML-blue)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
+## Dataset
+You can access the dataset [here](https://drive.google.com/drive/folders/1jtJpbYQvm7NjqjBpK4JJAhTnB67BL8Jj).
+
+## Kaggle Notebook
+You can access the dataset [here](https://www.kaggle.com/code/anshbhardwaj1222222/team-nocap-nova).
+
 ## 🌟 Key Features
 
 ### 🤖 AI-Powered Assessment
