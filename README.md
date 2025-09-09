@@ -49,18 +49,16 @@
                     │ • Encoder       │
                     └─────────────────┘
 ```
-## 🎨 Alternative Image Hosting
-If you prefer not to store images in your repository, you can use:
+
 <!-- GitHub Issues (Upload to an issue and copy URL) -->
-![Landing Page](https://drive.google.com/uc?export=view&id=1ubMAzwsge1Azv0V58JS2Q2hNr5MUEGg9)
-
-![Landing Page]([https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=after:2025-09-09](https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=after:2025-09-09))
-
-<!-- External hosting -->
-![Dashboard](https://imgur.com/your-image-id.png)
+![Landing Page](./docs/HomePage.png)
 
 <!-- Relative path (recommended) -->
-![Assessment](./docs/images/assessment-page.png)
+![Assessment](./docs/Partener_Assesment.png)
+
+<!-- External hosting -->
+![Dashboard](./docs/Analysis_Dashboard.png)
+
 
 ## 📁 Project Structure
 
