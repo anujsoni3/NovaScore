@@ -4,7 +4,7 @@
 
 **NovaScore** is a dynamic financial assessment platform designed specifically for gig economy partners (drivers, merchants, and delivery partners). Using machine learning algorithms, it evaluates creditworthiness and provides personalized loan recommendations with real-time risk assessment.
 
-![NovaScore Platform](https://drive.google.com/drive/search?dmr=1&ec=wgc-drive-hero-goto&q=after:2025-09-09)
+![NovaScore Platform]((https://img.shields.io/badge/Platform-Web%20Application-green))
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Flask%20%7C%20ML-blue)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
