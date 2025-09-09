@@ -3,6 +3,7 @@
 ## 🏆 Grab Hackathon Submission
 
 **NovaScore** is a dynamic financial assessment platform designed specifically for gig economy partners (drivers, merchants, and delivery partners). Using machine learning algorithms, it evaluates creditworthiness and provides personalized loan recommendations with real-time risk assessment.
+
 ![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Flask%20%7C%20ML-blue)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-success)
 
