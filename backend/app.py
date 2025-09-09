@@ -384,7 +384,7 @@ class MLNovaScoreCalculator:
         
         try:
             # Use provided API key or environment variable
-            api_key = "AIzaSyARfWELnfMb0lHPkjIiLGN1EvseNkVlrRU"
+            api_key = os.environ.get("GOOGLE_API_KEY")
             
             if not api_key:
                 raise ValueError("Google API key not provided. Pass it as parameter or set GOOGLE_API_KEY environment variable.")
